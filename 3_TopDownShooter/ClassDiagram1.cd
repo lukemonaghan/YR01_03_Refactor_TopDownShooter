@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cBackground" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAUBICAAAAACA=</HashCode>
+      <FileName>include\GraphicItems\Background.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cBulletController" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAACAAAAgCAAAAAEAAAAAAAAAABAAEAAAAAAAA=</HashCode>
+      <FileName>include\Controllers\BulletController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cButton" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAAAAAAIAACAAgEAAAKCACAAAAg=</HashCode>
+      <FileName>include\GraphicItems\Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cEnemyController" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAgACAAAAgCAAAAAAAAEAAEAAAgAABAAAAAAAAA=</HashCode>
+      <FileName>include\Controllers\EnemyController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cGameManager" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAABgAAgAASAAgAAAAABAAEEAIAAEAAAAI=</HashCode>
+      <FileName>include\GameState\GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cGameState">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAABgAAAAAQAAAAAAAAAAAAAAACAEgBAAA=</HashCode>
+      <FileName>include\GameState\States\GameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cOptionState">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAACAAADAAgAAACAQACABAAAACAEAQAAiQEgAAAA=</HashCode>
+      <FileName>include\GameState\States\OptionState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSplashState">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAgAAAAAQAAAAAAAAAAAAQCAiAEhAAAA=</HashCode>
+      <FileName>include\GameState\States\SplashState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cMenuState">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAADAAgAACCAQACABAAAAAAAAYAAiQEgAAAA=</HashCode>
+      <FileName>include\GameState\States\MenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cPlayState">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAEABAAAgQAAAIQAAAAAAAAAAAAQAAiAUgAAAA=</HashCode>
+      <FileName>include\GameState\States\PlayState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cBullet">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAACAAAAAAAAEAQAAAgAAAAABQ=</HashCode>
+      <FileName>include\Instances\Children\Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cEnemy">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAgAIAAAAGAAAAAAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>include\Instances\Children\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cPlayer">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACgAAAAAoAIAAABCAAAQAAAAEAAQAAAAAQAAAA=</HashCode>
+      <FileName>include\Instances\Children\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cInstance">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>include\Instances\Instance.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cMap1" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAACACAAAAAgACAAAAhAAAGEAAAEYAAA=</HashCode>
+      <FileName>include\Maps\Map1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix3" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAWABAAAAAAEAAQAMAAUAASQAAACAAAMAiACAAAAA=</HashCode>
+      <FileName>include\maths\Matrix3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix4" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAWAAAAAAAAAIAQAMAAUAASQAAAAAAAMAiACAAAAA=</HashCode>
+      <FileName>include\maths\Matrix4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAgBBBAAAAUAUACQAAC6AAAgAEgAAgAAEAAIQ=</HashCode>
+      <FileName>include\maths\Vector2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector3" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAgJAAASAAUAFACQAACTAAAgAEgACgBAEAAIY=</HashCode>
+      <FileName>include\maths\Vector3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector4" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAFAAAAgAUAEAAQAAAQAAAgAEAAAgAAEAAIQ=</HashCode>
+      <FileName>include\maths\Vector4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cTexture" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAQgBAAAAAAAABAAAAAgAEAAIAAoAAAAAg=</HashCode>
+      <FileName>include\GraphicItems\Texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSlider" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAQAAAgAAAAAAAAAQgACAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>include\GraphicItems\Slider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SColour" Collapsed="true">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="SpriteBlendModes" Collapsed="true">
+    <Position X="20" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAEAAAAAAAAAACAAAAABggEAAAAKAAAAASA=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CameraDirection" Collapsed="true">
+    <Position X="18.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAAAAAAAAAgAAAAAAAAAAAAAAAAAgIAAAAAAAA=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0008_1" Collapsed="true">
+    <Position X="16.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAACAAgIAIAgAICEQaAAFAUAJc3/gCABEAmJCAnDEgU=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
